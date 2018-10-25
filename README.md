@@ -7,4 +7,4 @@ List the files
 - script/utils.py
 
 
-By Jonna Bouwknegt
+By crazy bread loving, chocolate craving, bottomless beer tank party girl
